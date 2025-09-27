@@ -26,9 +26,9 @@ Welcome to my GitHub! I’m a budding Data Analyst passionate about turning data
 |---------|-------------|-------------|
 | **Uber Trip Analysis (Power BI)** | Designed an interactive multi-page dashboard analyzing trip frequency, revenue trends, and driver utilization. | [🔗 View Repo](https://github.com/NeerajSharma1508/Uber-Trip-Analysis-With-PowerBi) |
 | **Bank Loan Report (Power BI)** | Analyzed 5k+ loan applications with KPIs on approval, default, and recovery rates to support risk assessment. | [🔗 View Repo](https://github.com/NeerajSharma1508/Bank-Loan-Report) |
-| **Blinkit Retail Analysis (Python + Power BI)** | Built ETL pipeline in Python (Pandas) and visualized insights on sales performance & customer behavior. | [🔗 View Repo](https://github.com/NeerajSharma1508/Blinkit-Project-Using-Python) |
 | **SuperStore Sales Analysis (Power BI)** | Created dashboard to track sales, profit, and regional trends; identified KPIs to boost decision-making. | [🔗 View Repo](https://github.com/NeerajSharma1508/SuperStore-Sales-Analysis) |
-| **Memory Puzzle Game (Python)** | Developed an interactive Python-based puzzle game to strengthen logical problem-solving. | [🔗 View Repo](https://github.com/NeerajSharma1508/Memory-Puzzle-Game) |
+| **Blinkit Retail Analysis (Python + Power BI)** | Built ETL pipeline in Python (Pandas) and visualized insights on sales performance & customer behavior. | [🔗 View Repo](https://github.com/NeerajSharma1508/Blinkit-Project-Using-Python) |
+
 
 ---
 
