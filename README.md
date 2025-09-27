@@ -54,12 +54,10 @@ Welcome to my GitHub! I’m a budding Data Analyst passionate about turning data
 - 📊 **GitHub:** [NeerajSharma1508](https://github.com/NeerajSharma1508)  
 - 📝 **Portfolio / Projects:** *(Coming Soon — stay tuned!)*    
 
-Thanks for stopping by — I hope you find something inspiring in my work.  
-Let’s turn data into impact, one project at a time!
-
+Thanks for visiting my profile!
+I aim to transform raw data into meaningful insights and actionable impact — one analysis at a time.
 ---
-
-> “Data is the new oil — but only when refined.”  
+> “Numbers tell stories — I help uncover them.”
 > — Neeraj Sharma
 
 <!--
