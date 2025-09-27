@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a budding Data Analyst passionate about turning data
 
 ---
 
-## ## 📂 Featured Projects
+## 📂 Featured Projects
 
 | Project | Description | GitHub Link |
 |---------|-------------|-------------|
