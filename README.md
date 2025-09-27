@@ -52,14 +52,15 @@ Welcome to my GitHub! I’m a budding Data Analyst passionate about turning data
 - 📧 **Email:** [neerukct15@gmail.com](mailto:your.email@example.com)  
 - 💼 **LinkedIn:** [Neeraj Sharma](https://www.linkedin.com/in/ineerajsharma15)  
 - 📊 **GitHub:** [NeerajSharma1508](https://github.com/NeerajSharma1508)  
-- 📝 **Portfolio / Projects:** *(Coming Soon — stay tuned!)*    
+- 📝 **Portfolio:** *(Coming Soon — stay tuned!)*    
 
-Thanks for visiting my profile!
-I aim to transform raw data into meaningful insights and actionable impact — one analysis at a time.
+Thanks for visiting my profile!  
+I aim to transform raw data into meaningful insights and actionable impact - one analysis at a time.
+
 ---
-> “Numbers tell stories — I help uncover them.”
-> — Neeraj Sharma
 
+> “Numbers tell stories — I help uncover them.”  
+> — Neeraj Sharma
 <!--
 **NeerajSharma1508/NeerajSharma1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
