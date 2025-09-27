@@ -30,8 +30,6 @@ Welcome to my GitHub! I’m a budding Data Analyst passionate about turning data
 | **SuperStore Sales Analysis (Power BI)** | Created dashboard to track sales, profit, and regional trends; identified KPIs to boost decision-making. | [🔗 View Repo](https://github.com/NeerajSharma1508/SuperStore-Sales-Analysis) |
 | **Memory Puzzle Game (Python)** | Developed an interactive Python-based puzzle game to strengthen logical problem-solving. | [🔗 View Repo](https://github.com/NeerajSharma1508/Memory-Puzzle-Game) |
 
-> ℹ️ *See my [Projects](./projects) folder or pinned repositories for full implementations.*
-
 ---
 
 ## 📚 Learning & Certifications
