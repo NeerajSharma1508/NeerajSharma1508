@@ -49,6 +49,7 @@ Welcome to my GitHub! I’m a budding Data Analyst passionate about turning data
 ---
 
 ## 🤝 Let’s Connect
+- 📞 Phone: **+91-9024061708** 
 - 📧 **Email:** [neerukct15@gmail.com](mailto:your.email@example.com)  
 - 💼 **LinkedIn:** [Neeraj Sharma](https://www.linkedin.com/in/ineerajsharma15)  
 - 📊 **GitHub:** [NeerajSharma1508](https://github.com/NeerajSharma1508)  
